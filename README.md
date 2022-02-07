@@ -10,7 +10,7 @@
 - 리뷰 및 별점 등록 
 - 리뷰 조회(정렬)
 ![image](https://user-images.githubusercontent.com/96643592/152725482-9fb52be5-d5c8-4012-b3d4-c16060926e27.png)
-![image](https://user-images.githubusercontent.com/96643592/152725589-994f9e70-bb6f-4c6e-90cb-0eafc8095bfa.png)
+![image](https://user-images.githubusercontent.com/96643592/152791387-98d60631-1955-4d10-b801-d43fe9bc26ba.png)
 ![image](https://user-images.githubusercontent.com/96643592/152791283-328999ae-dd6b-4c19-9793-f31eef8e089e.png)
 
 
